@@ -25,4 +25,4 @@ Install my fav mac_os tools which comes handy in our day 2 day operations
 `/brew.sh`
 
 ![](Screenshots/im.jpeg)
-![](Screenshots/hh)
+![](Screenshots/hh.png)
