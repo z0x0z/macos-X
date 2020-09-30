@@ -22,7 +22,7 @@ Install my fav mac_os tools which comes handy in our day 2 day operations
 
 `chmod 700 brew.sh`
 
-`/brew.sh`
+`./brew.sh`
 
 ![](Screenshots/im.jpeg)
 ![](Screenshots/hh.png)
